@@ -22,7 +22,10 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
+<<<<<<< HEAD
     "moment": "^2.18.1",
+=======
+>>>>>>> 50cec3a65f58ed6a7e6a172fd053b1ed69cde11c
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
   },
